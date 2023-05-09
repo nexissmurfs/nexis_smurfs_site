@@ -1,0 +1,120 @@
+body{
+    background-color: #342b2c;
+}
+
+/* Backgrounds */
+.background_dark{
+    background-color: #342b2c;
+}
+
+.background_dark2{
+    background-color: #24191d;
+}
+
+.background_orange{
+    background-color: #ffa500;
+    color: #1d2c49;
+}
+
+.background_white{
+    background-color: #e3e0e1 ;
+}
+
+.border_white{
+    border: #e3e0e1 solid;
+}
+
+.border_orange{
+    border: #ffa500 solid;
+}
+
+/* Colors */
+.text_orange{
+    color: #ffa500 !important;
+}
+
+.text_white{
+    color: #e3e0e1;
+}
+
+.text_white_dark{
+    color: #a2999c;
+}
+
+.text_black{
+    color: black;
+}
+
+.text_transparant{
+    color: transparent;
+}
+
+/* Buttons */
+.button_orange{
+    background-color: #ffa500;
+    color: #342b2c;
+    border: none;
+}
+
+.button_orange:hover{
+    background-color: #ffa600d2;
+    color: #1a1a1c;
+    border: none;
+}
+
+.button_orange_reverse{
+    background-color: #342b2c;
+    color: #e3e0e1;
+    border: #1d2c49 solid;
+}
+
+.button_orange_reverse:hover{
+    background-color: #1d2c49;
+    color: #e3e0e1;
+    border: #1d2c49 solid;
+}
+
+/* Badge */
+.badge_popular{
+    background-color: #ffa500;
+    color: #24191d;
+}
+
+img[src*="https://cdn.000webhost.com/000webhost/logo/footer-powered-by-000webhost-white2.png"] {
+    display: none;
+}
+
+.dropdown-menu{
+    background-color: #342b2c;
+}
+
+.dropdown-item{
+    color: #e3e0e1;
+}
+
+.dropdown-item:active{
+    background-color: black;
+}
+
+.dropdown-item:hover{
+    background-color: #e3e0e1;
+}
+
+.dropdown-toggle:active, .dropdown-toggle:focus{
+    box-shadow: none;
+    outline: 0px;
+}
+
+.dropdown-toggle{
+    width: 275px;
+    height: 36px;
+}
+
+.image_type{
+    padding: 5%;
+    margin-bottom: 5%;
+}
+
+.brand span {
+    color: white;
+}
