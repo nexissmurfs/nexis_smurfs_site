@@ -28,6 +28,10 @@ body{
     border: #ffa500 solid;
 }
 
+.border_brown{
+    border: #24191d solid;
+}
+
 /* Colors */
 .text_orange{
     color: #ffa500 !important;
